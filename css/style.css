@@ -1,0 +1,389 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.img img{
+	width: 130px;
+	height: auto;
+}
+
+.header{
+	width: 100%;
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+.contenar{
+	width: 1140px;
+	margin: auto;
+}
+.nav{
+	display: flex;
+	justify-content: space-between;
+}
+ a{
+	text-decoration: none;
+	color: #373e7d;
+}
+
+.manu ul li{
+	display: inline-block;
+	list-style: none;
+	color: #1e266d;
+	font-size: 16px;
+	font-family: open sans;
+	padding-right:25px ;
+	padding-top: 35px;
+
+}
+
+.btn button{
+	background-color: #2e367d;
+	color: white;
+	padding: 10px 20px;
+	border: none;
+	font-family: open sans;
+	margin-top: 25px;
+	transition: 0.5s;
+
+}
+.btn button:hover{
+	background-color: skyblue;
+	cursor: pointer;
+	transition: 0.5s;
+}
+
+
+
+
+.part1all{
+
+width: 100%;
+
+}
+
+
+.part1conta{
+
+	padding-top: 30px;
+}
+
+
+.part1jus{
+
+	display: flex;
+	justify-content: space-between;
+
+}
+
+.part1t{
+	font-family: open sans;
+	padding-left: 200px;
+	padding-top: 90px;
+	color: #1e266d;
+
+}
+
+.part1t h1{
+	font-size: 45px;
+}
+
+.part1t p{
+font-size: 22px;
+margin: 30px 0px;
+}
+
+.part1t a{
+
+background-color:#2E367D ;
+color: white;
+padding: 13px 30px;
+border-radius: 5px;
+
+}
+.part1t a:hover{
+
+	background-color: skyblue;
+	transition: .5s;
+}
+.part1img img{
+
+padding: 10px;
+
+}
+
+.pt2all{
+
+	font-family: open sans;
+	margin-top: 30px;
+	width: 100%;
+	background-color: #f5f7fa;
+}
+
+
+.pt2cont{
+	width: 1140px;
+	margin: auto;
+}
+
+.pt2itm{
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 50px;
+}
+
+.pt2txt{
+	padding-left: 40px;
+	padding-top: 80px;
+}
+.pt2txtoo{
+	font-size: 20px;
+	color: #6a7286;
+}
+
+
+.pt2txt h2{
+	font-size:46px ;
+	line-height: 60px;
+	color: #07324f;
+
+}
+.pt2txt p{
+
+	font-size: 15px;
+	line-height: 20px;
+	margin: 20px 0px;
+	color: #54687c;
+	margin-bottom: 50px;
+}
+
+
+.pt2txt a{
+
+	padding: 13px 30px;
+	background-color: #2e367d;
+	color: white;
+	border-radius: 7px;
+}
+
+
+
+
+
+
+.ptt-all{
+	width: 100%;
+}
+
+.ptt-cont{
+
+	width: 1140px;
+	margin: auto;
+	font-family: open sans;
+}
+
+.ptt-itt{
+
+	display: flex;
+	justify-content: space-between;
+}
+
+.ptt-ht{
+
+	font-size: 25px;
+	color: #3b5b94;
+
+}
+.ptt-txt h4{
+	font-size: 45px;
+	color: #07324f;
+
+
+
+}
+
+.ptt-txt  p{
+	font-size: 16px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	color: #526375;
+	line-height: 25px;
+
+}
+
+.ptt-txt a{
+	padding: 13px 30px;
+	background-color: #2e367d;
+	color: white;
+	border-radius: 7px;
+
+}
+
+
+
+
+
+
+
+
+
+.conta{
+	width: 1140px;
+		font-family: open sans;
+
+
+	margin: auto;
+}
+.contenarc{
+
+	background-color: #2e367d;
+	margin-top: 100px;
+	padding: 80px 80px;
+	border-radius: 10px;
+}
+.inf{
+	display: flex;
+
+}
+.lef h3{
+	color: white;
+	font-size: 25px;
+
+
+}
+.lef h4{
+	color: white;
+	font-size: 25px;
+
+
+}
+
+.lef{
+     flex-basis: 50%;
+}
+.lef p{
+	color: white;
+	margin: 10px;
+	font-weight: normal;
+
+}
+
+
+
+
+
+
+
+
+
+
+.ffall{
+	width:1140px;
+	font-family:open sans;
+	margin: auto;
+	padding-top: 100px;
+
+}
+
+
+.alff{
+	display: flex;
+	justify-content: space-between;
+}
+
+
+.fft1 h5{
+	font-size: 17px;
+	color: #1e266d;
+
+}
+.fft1 p{
+	font-size: 15px;
+	font-weight: normal;
+	padding-top: 10px;
+	line-height: 25px;
+	color: #b2afc6;
+}
+
+.fft2 h6{
+	font-size: 17px;
+	color: #1e266d;
+}
+.fft2 p{
+	font-size: 15px;
+	font-weight: normal;
+	padding-top: 10px;
+	line-height: 25px;
+	color: #b2afc6;
+}
+
+.fflin1 h7{
+	font-size: 17px;
+	color: #1e266d;
+}
+
+
+.fflin1 ul li {
+
+	list-style: none;
+	font-size: 15px;
+	font-weight: normal;
+	line-height: 25px;
+
+
+
+}
+
+.fflin1 ul{
+	padding-top: 10px;
+
+}
+
+.fflin2 h8{
+
+	font-size: 17px;
+	color: #1e266d;
+
+}
+
+.fflin2 ul li{
+
+	list-style: none;
+	font-size: 15px;
+	font-weight: normal;
+	line-height: 25px;
+
+
+
+}
+
+
+.fflin2 ul{
+	padding-top: 10px;
+}
+.ffconte{
+	
+ display: flex;
+ justify-content: center;
+
+}
+
+.ffimg img{
+	width: 1140px;
+	height: auto;
+}
+.controo{
+	padding-top: 10px;
+}
+
+
+.lastxt{
+	padding-top: 50px;
+	width: 100%;
+
+}
+.lastxt p{
+	font-family: open sans;
+	text-align: center;
+	font-weight: normal;
+	color: #b2afc6;
+}
